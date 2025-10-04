@@ -22,7 +22,7 @@ A React/TypeScript application replicating the original Rexby travel guide with 
 
 ## Development
 
-**Time**: 3 hours
+**Time taken to develop it**: 2 hours
 
 ### Setup
 ```bash
