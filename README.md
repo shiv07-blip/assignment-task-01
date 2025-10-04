@@ -1,4 +1,4 @@
-# Norway Travel Guide Clone
+# Assignment - Rexby Clone
 
 **Assignment**: Clone of [Rexby Norway Travel Guide](https://www.rexby.com/asasteinars/norway)
 
